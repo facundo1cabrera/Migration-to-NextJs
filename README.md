@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+It was first created with React and with educational and practise purposes was migrated to NextJs
 
 ## Getting Started
 
